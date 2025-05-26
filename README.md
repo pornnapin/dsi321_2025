@@ -202,7 +202,7 @@ python deploy_ml.py
 
 ## Streamlit Dashboard Overview
 
-![Dashboard Demo](img/dashboard_demo.png)
+![Dashboard Demo](image/dashboard_demo.png)
 
 The dashboard provides a city-wide overview of real-time and forecasted air quality in Bangkok.
 
@@ -281,7 +281,7 @@ lakefs://dust-concentration/main/forecast/forecast.parquet
 
 If you have any questions or want to learn more, feel free to reach out:
 
-**Developer**: Nawattakorn Saengsila<br>
+**Developer**: Pornnapin Thienreak<br>
 **Email**: [pornnapin2004@gmail.com](mailto:pornnapin2004@gmail.com)
 
 <p align="center">
